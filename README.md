@@ -2,6 +2,8 @@
 
 Notify calls/SMS's on your SIM card to Slack using Huawei USB 3G modems.
 
+![screenshot-01](https://raw.githubusercontent.com/muojp/rusurock/images/screenshot-01.jpg =600x)
+
 ## Prerequisites
 
  - Node.js
