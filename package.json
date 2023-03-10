@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/webhook": "^5.0.3",
+    "@slack/webhook": "^5.0.4",
     "node-pdu": "^1.0.15",
     "serialport": "^9.0.0"
   }
